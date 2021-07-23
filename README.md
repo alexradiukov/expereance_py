@@ -1,2 +1,4 @@
-# expereance_py
-hillel homework
+___Репазиторий 
+для выполенения домашнего задания___
+
+__Школа__ [Hillel](https://odessa.ithillel.ua)
